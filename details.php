@@ -23,7 +23,7 @@
 			'description' => array(
 				'en' => 'N/A',
 				
-				'es' => 'Clasifica las áreas y departamentos de los centros',
+				'es' => 'Catalogo de Alumnos Inscritos',
 				
 			),
 			'frontend' => false,
